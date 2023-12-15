@@ -6,7 +6,7 @@ excerpt: 'The proliferation of real-time cyber-physical systems (CPS) is making 
 date: 2022-12-05
 venue: '2022 IEEE Real-Time Systems Symposium (RTSS)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9984724'
-# citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Yuhao Wu, Yujie Wang, Shixuan Zhai, Zihan Li, Ao Li, Jinwen Wang, Ning Zhang, &quot;Work-in-Progress: Measuring Security Protection in Real-time Embedded Firmware&quot; <i>2022 IEEE Real-Time Systems Symposium (RTSS)</i>, Houston, TX, USA, 2022, pp. 495-498, doi: 10.1109/RTSS55097.2022.00050.'
 ---
 <!-- This paper is about the number 2. The number 3 is left for future work.
 
