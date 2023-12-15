@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Tomson Li"
 title_separator          : "-"
-name                     : &name "Tomson Li - Bio Page"
+name                     : &name "Tomson Li"
 description              : &description "PhD Student at Washington University in St. Louis"
 url                      : https://bio.tomsonlee.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
