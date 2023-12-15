@@ -6,7 +6,7 @@ excerpt: 'Embedded devices are increasingly ubiquitous in our society. Firmware 
 date: 2024-08-14
 venue: 'Usenix 24'
 paperurl: 'https://www.usenix.org/system/files/sec23winter-prepub-484-wu-yuhao.pdf'
-citation: 'Yuhao Wu, Jinwen Wang, Yujie Wang, Shixuan Zhai, **Zihan Li**, Yi He, Kun Sun, Qi Li, Ning Zhang. (2024). &quot;Your Firmware Has Arrived: A Study of Firmware Update Vulnerabilities&quot; <i>USENIX Security 24</i>.'
+citation: 'Yuhao Wu, Jinwen Wang, Yujie Wang, Shixuan Zhai, <b>Zihan Li</b>, Yi He, Kun Sun, Qi Li, Ning Zhang. (2024). &quot;Your Firmware Has Arrived: A Study of Firmware Update Vulnerabilities&quot; <i>USENIX Security 24</i>.'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work.
 
