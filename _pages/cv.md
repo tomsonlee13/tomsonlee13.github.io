@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Engineering, Washington University in St. Louis, 2022
+* M.S. in Cybersecurity Engineering, Washington University in St. Louis, 2023
+* Ph.D in Computer Science, Washington University in St. Louis, Present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2022 - Present: Research Assistant
+  * Washington University in St. Louis
+  <!-- * Duties included: Tagging issues -->
+  <!-- * Supervisor: Professor Git -->
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2020 - Sept. 2020: Backend Development Intern
+  * Youme.im
+  * Developed an end-to-end encryption module for audio and video real-time communication
+  <!-- * Supervisor: Professor Hub -->
   
 Skills
 ======
@@ -42,18 +42,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+Awards
 ======
-* Currently signed in to 43 different slack teams
+* Nominated for the 2022 Dean's Select PhD Fellowship at Washington University in St. Louis.
