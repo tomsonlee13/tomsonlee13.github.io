@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-CV
-=====
 [Access full CV here](/cv/Tomson_s_CV.pdf)
 
 Education
