@@ -22,7 +22,7 @@ Work experience
 * May 2022 - Present: Research Assistant
   * Washington University in St. Louis
   <!-- * Duties included: Tagging issues -->
-  * Supervisor: Professor Ning Zhang
+  * Advisor: Professor Ning Zhang
 
 * July 2020 - Sept. 2020: Backend Development Intern
   * Youme.im
