@@ -13,9 +13,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Engineering, Washington University in St. Louis, 2022
-* M.S. in Cybersecurity Engineering, Washington University in St. Louis, 2023
 * Ph.D in Computer Science, Washington University in St. Louis, Present
+* M.S. in Cybersecurity Engineering, Washington University in St. Louis, 2020 - 2023
+* B.S. in Computer Engineering, Washington University in St. Louis, 2020 - 2022
 
 Work experience
 ======
