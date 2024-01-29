@@ -46,6 +46,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Awards
+======
+* Nominated for the 2022 Dean's Select PhD Fellowship at Washington University in St. Louis.
+
+Services
+======
+* Reviewer
+  * ISOC Symposium on Vehicle Security and Privacy (VehicleSec '24)
+
 Technical Skills
 ======
 * Languages: C/C++, Python, Java, JavaScript, HTML/CSS, VHDL, Assembly, SQL, PHP
@@ -53,6 +62,7 @@ Technical Skills
 * Developer Tools: Git, Cmake, Docker, VS Code, Visual Studio, Eclipse, Wireshark, Xcode, Ghidra
 * Libraries: pandas, NumPy, Matplotlib, Tkinter
   
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
@@ -65,6 +75,4 @@ Technical Skills
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Awards
-======
-* Nominated for the 2022 Dean's Select PhD Fellowship at Washington University in St. Louis.
+
