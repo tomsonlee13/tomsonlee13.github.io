@@ -27,8 +27,8 @@ Work experience
 * July 2020 - Sept. 2020: Backend Development Intern
   * Youme.im
   * Developed an end-to-end encryption module for audio and video real-time communication
-  * Integrated the encryption module into the cross-platform compilation build workflow
-  * Performed testing to ensure functionalities (i.e., RTP retransmission) work after integrating the encryption module
+  <!-- * Integrated the encryption module into the cross-platform compilation build workflow
+  * Performed testing to ensure functionalities (i.e., RTP retransmission) work after integrating the encryption module -->
   <!-- * Supervisor: Professor Hub -->
 
 Projects
@@ -53,6 +53,8 @@ Awards
 Services
 ======
 * Reviewer
+  * IEEE Transactions on Information Forensics and Security
+  * IEEE/ACM Transactions on Networking
   * ISOC Symposium on Vehicle Security and Privacy (VehicleSec '24)
 
 Technical Skills

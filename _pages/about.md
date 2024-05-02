@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Tomson is a PhD student at Washington University in St. Louis. He is advised by Prof. Ning Zhang as a member of the Computer Security & Privacy Laboratory. His research focuses on system's security, including software security analysis and network security.
+Tomson is a PhD student at Washington University in St. Louis. He is advised by Prof. Ning Zhang as a member of the Computer Security & Privacy Laboratory. His research focuses on system's security, including software security analysis and real-time system security.
 
 He obtained his Bachelor's degree and Master's degree from WashU in 2023. 
 
