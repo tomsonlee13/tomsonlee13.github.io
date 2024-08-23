@@ -12,21 +12,21 @@
     {
       "institution": "Washington University in St. Louis",
       "location": "St. Louis, MO, USA",
-      "degree": "Ph.D in Computer Science",
+      "studyType": "Ph.D in Computer Science",
       "startDate": "Aug 2023",
       "endDate": "Present"
     },
     {
       "institution": "Washington University in St. Louis",
       "location": "St. Louis, MO, USA",
-      "degree": "M.S. in Cybersecurity Engineering",
+      "studyType": "M.S. in Cybersecurity Engineering",
       "startDate": "Aug 2020",
       "endDate": "May 2023"
     },
     {
       "institution": "Washington University in St. Louis",
       "location": "St. Louis, MO, USA",
-      "degree": "B.S. in Computer Engineering",
+      "studyType": "B.S. in Computer Engineering",
       "startDate": "Aug 2020",
       "endDate": "Dec 2022"
     }
@@ -37,7 +37,7 @@
       "position": "Research Assistant",
       "startDate": "May 2022",
       "endDate": "Present",
-      "Advisor": "Prof. Ning Zhang"
+      "summary": "Advisor: Prof. Ning Zhang"
     },
     {
       "name": "Youme.im",
@@ -72,7 +72,7 @@
       "summary": "Real-time embedded firmware security analysis"
     }
   ],
-  "services": [
+  "volunteer": [
     {
       "organization": "IEEE Transactions on Information Forensics and Security",
       "position": "Reviwer"
@@ -132,7 +132,7 @@
     {
       "name": "RichArduino V4",
       "summary": "FPGA microcontroller with RISC-based architecture",
-      "highlights": ["$I^2C$/UART serial communication", "VHDL programming", "PCB design"],
+      "highlights": ["$I^2C$/UART serial communication", "VHDL programming", "PCB design"]
     }
   ]
 }
