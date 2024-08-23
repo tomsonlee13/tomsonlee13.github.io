@@ -75,15 +75,19 @@
   "volunteer": [
     {
       "organization": "IEEE Transactions on Information Forensics and Security",
-      "position": "Reviwer"
+      "position": "Reviwer",
+      "startDate": "2024"
     },
     {
       "organization": "IEEE/ACM Transactions on Networking",
-      "position": "Reviwer"
+      "position": "Reviwer",
+      "startDate": "2023",
+      "endDate": "2024"
     },
     {
       "organization": "ISOC Symposium on Vehicle Security and Privacy (VehicleSec '24)",
-      "position": "Reviwer"
+      "position": "Reviwer",
+      "startDate": "2024"
     }
   ],
   "skills": [
@@ -132,7 +136,7 @@
     {
       "name": "RichArduino V4",
       "summary": "FPGA microcontroller with RISC-based architecture",
-      "highlights": ["$I^2C$/UART serial communication", "VHDL programming", "PCB design"]
+      "highlights": ["I<sup>2</sup>C/UART serial communication", "VHDL programming", "PCB design"]
     }
   ]
 }
