@@ -75,19 +75,15 @@
   "volunteer": [
     {
       "organization": "IEEE Transactions on Information Forensics and Security",
-      "position": "Reviwer",
-      "endDate": "2024"
+      "position": "Reviwer"
     },
     {
       "organization": "IEEE/ACM Transactions on Networking",
-      "position": "Reviwer",
-      "startDate": "2023",
-      "endDate": "2024"
+      "position": "Reviwer"
     },
     {
       "organization": "ISOC Symposium on Vehicle Security and Privacy (VehicleSec '24)",
-      "position": "Reviwer",
-      "endDate": "2024"
+      "position": "Reviwer"
     }
   ],
   "skills": [
