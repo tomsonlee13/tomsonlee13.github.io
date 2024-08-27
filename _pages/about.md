@@ -9,6 +9,8 @@ profile:
   image: self.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Zihan (Tomson) Li</p>
+    <p>Washington University in St. Louis</p>
     <p>St. Louis</p>
     <p>Missouri</p>
 
