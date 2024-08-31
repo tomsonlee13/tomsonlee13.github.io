@@ -61,14 +61,14 @@
       "name": "Your Firmware Has Arrived: A Study of Firmware Update Vulnerabilities",
       "publisher": "Yuhao Wu, Jinwen Wang, Yujie Wang, Shixuan Zhai, <b>Zihan Li</b>, Yi He, Kun Sun, Qi Li, Ning Zhang",
       "releaseDate": "2024-08-14",
-      "url": "https://www.usenix.org/system/files/usenixsecurity24-wu-yuhao.pdf",
+      "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/wu-yuhao",
       "summary": "USENIX Security 24"
     },
     {
       "name": "Work-in-Progress: Measuring Security Protection in Real-time Embedded Firmware",
       "publisher": "Yuhao Wu, Yujie Wang, Shixuan Zhai, <b>Zihan Li</b>, Ao Li, Jinwen Wang, Ning Zhang",
       "releaseDate": "2022-12-05",
-      "url": "https://bpb-us-w2.wpmucdn.com/sites.wustl.edu/dist/3/3270/files/2024/03/wu2022wip-bd6fadccc92039bf.pdf",
+      "url": "https://ieeexplore.ieee.org/abstract/document/9984724",
       "summary": "2022 IEEE Real-Time Systems Symposium (RTSS)"
     }
   ],
