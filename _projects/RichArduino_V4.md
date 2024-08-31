@@ -20,7 +20,9 @@ Designed and implemented I<sup>2</sup>C module and XADC wrapper for our FPGA-bas
 </div>
 
 Implemented a RISC-based assembly bootloader for the microcontroller
+
 Developed a Python GUI-based UART serial connection software for debugging and uploading program
+
 Designed an RC circuit and soldered components on the PCB shield
 
 <div class="row">
