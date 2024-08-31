@@ -10,12 +10,12 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Zihan (Tomson) Li</p>
-    <p><a href="mailto:tomson.li@wustl.edu">tomson-Dot-li-At-wustl-Dot-edu</a></p>
+    <p><a href="mailto:tomson.li@wustl.edu">tomson.li@wustl.edu</a></p>
     <p>St. Louis,</p>
     <p>Missouri</p>
 
 news: false # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 Tomson is a PhD student at [Washington University in St. Louis](https://washu.edu). He is advised by [Prof. Ning Zhang](https://cybersecurity.seas.wustl.edu/ning/index.html) as a member of the Computer Security & Privacy Laboratory. His research focuses on system security, and formal verification.
