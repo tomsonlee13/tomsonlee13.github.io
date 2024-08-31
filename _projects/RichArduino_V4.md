@@ -8,7 +8,7 @@ category: past
 related_publications: false
 ---
 
-Designed and implemented $I^2C$ module and XADC wrapper for our FPGA-based microcontroller system
+Designed and implemented I<sup>2</sup>C module and XADC wrapper for our FPGA-based microcontroller system
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -40,4 +40,4 @@ Designed an RC circuit and soldered components on the PCB shield
 
 Developed a simple assembly program to demonstrate the functionality of the microcontroller.
 
-Full report of the project can be accessed <a href="https://bio.tomson.li/assets/pdf/RichArduino_V4_Report.pdf">[here]</a>.
+Full report of the project can be accessed <a href="/assets/pdf/RichArduino_V4_Report.pdf">[here]</a>.
