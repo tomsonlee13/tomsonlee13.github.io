@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D Student @ <a href='https://washu.edu'>WashU</a>.
+subtitle: M.S. Student @ <a href='https://washu.edu'>WashU</a>.
 
 profile:
   align: right
@@ -18,11 +18,14 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Tomson is a PhD student at [Washington University in St. Louis](https://washu.edu). He is advised by [Prof. Ning Zhang](https://cybersecurity.seas.wustl.edu/ning/index.html) as a member of the [Computer Security & Privacy Laboratory](https://cybersecurity.seas.wustl.edu/). His research focuses on system security, and real-time systems.
+Tomson is a MS student at [Washington University in St. Louis](https://washu.edu). He has previous research on system security, real-time systems, and Federated Learning.
+<!-- He is advised by [Prof. Ning Zhang](https://cybersecurity.seas.wustl.edu/ning/index.html) as a member of the [Computer Security & Privacy Laboratory](https://cybersecurity.seas.wustl.edu/). 
+His research focuses on system security, and real-time systems. -->
 
 <!-- formal verifications -->
 
 He obtained his Bachelor's degree and Master's degree from WashU in 2023. 
+He will obtain MS in Computer Science in May 2024.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
