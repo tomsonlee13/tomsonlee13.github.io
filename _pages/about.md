@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: M.S. Student @ <a href='https://washu.edu'>WashU</a>.
+subtitle: Ph.D Student @ <a href='https://washu.edu'>WashU</a>.
 
 profile:
   align: right
@@ -18,7 +18,9 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Tomson is a MS student at [Washington University in St. Louis](https://washu.edu). His previous research focused on system security, real-time systems, and Federated Learning.
+Tomson is a PhD student at [Washington University in St. Louis](https://washu.edu). He is advised by [Prof. Ning Zhang](https://cybersecurity.seas.wustl.edu/ning/index.html) as a member of the Computer Security & Privacy Laboratory. His research focuses on system security, real-time systems, and Machine Learning Systems.
+
+<!-- Tomson is a MS student at [Washington University in St. Louis](https://washu.edu). His previous research focused on system security, real-time systems, and Federated Learning. -->
 <!-- He is advised by [Prof. Ning Zhang](https://cybersecurity.seas.wustl.edu/ning/index.html) as a member of the [Computer Security & Privacy Laboratory](https://cybersecurity.seas.wustl.edu/). 
 His research focuses on system security, and real-time systems. -->
 
