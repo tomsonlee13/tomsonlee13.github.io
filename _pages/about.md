@@ -27,7 +27,7 @@ His research focuses on system security, and real-time systems. -->
 <!-- formal verifications -->
 
 He obtained his Bachelor's degree in Computer Engineering and Master's degree in Cybersecurity Engineering from WashU in 2023. 
-He will obtain MS in Computer Science from WashU in May 2025.
+<!-- He will obtain MS in Computer Science from WashU in May 2025. -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
