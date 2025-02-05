@@ -101,14 +101,14 @@
       "name": "Framework",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "React, Node.js"
+        "React, Node.js, ROS, ROS2"
       ]
     },
     {
       "name": "Developer Tools",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Git, Cmake, Docker, VS Code, Visual Studio, Eclipse, Wireshark, Xcode, Ghidra"
+        "Git, Cmake, Docker, VS Code, Visual Studio, Eclipse, Wireshark, Xcode, Ghidra, Gazebo"
       ]
     },
     {
