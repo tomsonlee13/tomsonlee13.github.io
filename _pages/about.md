@@ -18,7 +18,7 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Tomson is a PhD student at [Washington University in St. Louis](https://washu.edu). He is advised by [Prof. Ning Zhang](https://cybersecurity.seas.wustl.edu/ning/index.html) as a member of the Computer Security & Privacy Laboratory. His research focuses on system security, real-time systems, and machine learning systems.
+Tomson is a PhD student at [Washington University in St. Louis](https://washu.edu). He is advised by [Prof. Ning Zhang](https://cybersecurity.seas.wustl.edu/ning/index.html) as a member of the Computer Security & Privacy Laboratory. His research focuses on system security, cyber-physical systems, and machine learning systems.
 
 <!-- Tomson is a MS student at [Washington University in St. Louis](https://washu.edu). His previous research focused on system security, real-time systems, and Federated Learning. -->
 <!-- He is advised by [Prof. Ning Zhang](https://cybersecurity.seas.wustl.edu/ning/index.html) as a member of the [Computer Security & Privacy Laboratory](https://cybersecurity.seas.wustl.edu/). 
