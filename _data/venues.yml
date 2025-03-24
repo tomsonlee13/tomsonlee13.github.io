@@ -4,6 +4,7 @@
 
 "USENIX":
   url: https://www.usenix.org/conference/
+  color: "#9c1919"
 
 "RTSS":
   url: https://ieeexplore.ieee.org/xpl/conhome/1000619/all-proceedings
