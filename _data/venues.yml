@@ -1,9 +1,10 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"DAC":
+  url: https://www.dac.com/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"USENIX":
+  url: https://www.usenix.org/conference/
 
-"Vision":
+"RTSS":
+  url: https://ieeexplore.ieee.org/xpl/conhome/1000619/all-proceedings
   color: "#009f36"
