@@ -3,9 +3,13 @@
   color: "#00369f"
 
 "USENIX":
-  url: https://www.usenix.org/conference/
+  url: https://www.usenix.org/conferences/byname/108
   color: "#9c1919"
 
 "RTSS":
   url: https://ieeexplore.ieee.org/xpl/conhome/1000619/all-proceedings
   color: "#009f36"
+
+"OSDI":
+  url: https://www.usenix.org/conferences/byname/179
+  color: "#402b63"
