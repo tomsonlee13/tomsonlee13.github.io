@@ -106,30 +106,22 @@
     {
       "name": "Languages",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "C/C++, Python, Java, JavaScript, HTML/CSS, VHDL, Assembly, SQL, PHP"
-      ]
+      "keywords": ["C/C++, Python, Java, JavaScript, HTML/CSS, VHDL, Assembly, SQL, PHP"]
     },
     {
       "name": "Framework",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "React, Node.js, ROS, ROS2"
-      ]
+      "keywords": ["React, Node.js, ROS, ROS2"]
     },
     {
       "name": "Developer Tools",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Git, Cmake, Docker, VS Code, Visual Studio, Eclipse, Wireshark, Xcode, Ghidra, Gazebo"
-      ]
+      "keywords": ["Git, Cmake, Docker, VS Code, Visual Studio, Eclipse, Wireshark, Xcode, Ghidra, Gazebo"]
     },
     {
       "name": "Libaries",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "pandas, NumPy, Matplotlib, Tkinter, pytorch"
-      ]
+      "keywords": ["pandas, NumPy, Matplotlib, Tkinter, pytorch"]
     }
   ],
   "languages": [
