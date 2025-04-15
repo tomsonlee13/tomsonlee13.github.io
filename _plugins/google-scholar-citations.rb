@@ -21,7 +21,8 @@ module Jekyll
       article_id = context[@article_id.strip]
       scholar_id = context[@scholar_id.strip]
       article_url = "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=#{scholar_id}&citation_for_view=#{scholar_id}:#{article_id}"
-
+      GoogleScholarCitationsTag::Citations[u-x6o8ySG0sC] = 21
+      GoogleScholarCitationsTag::Citations[u5HHmVD_uO8C] = 3
       begin
           # If the citation count has already been fetched, return it
           if GoogleScholarCitationsTag::Citations[article_id]
