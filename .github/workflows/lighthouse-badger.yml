@@ -24,7 +24,7 @@ env:
 # TRIGGERS
 on:
   workflow_run:
-    workflows: [Deploy site]
+    workflows: [Check for broken links on site]
     types: [completed]
   page_build:
   # schedule: # Check your schedule here => https://crontab.guru/
