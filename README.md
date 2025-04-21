@@ -2,7 +2,6 @@
 
 **A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.**
 
-
 ## Lighthouse PageSpeed Insights
 
 ### Desktop
