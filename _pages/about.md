@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D Student @ <a href='https://washu.edu'>WashU</a>.
+subtitle: Ph.D Candidate @ <a href='https://washu.edu'>WashU</a>.
 
 profile:
   align: right
@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Tomson is a PhD student at [Washington University in St. Louis](https://washu.edu). He is advised by [Prof. Ning Zhang](https://cybersecurity.seas.wustl.edu/ning/index.html) as a member of the Computer Security & Privacy Laboratory. His research focuses on system security, cyber-physical systems, and machine learning systems.
+Tomson is a PhD candidate at [Washington University in St. Louis](https://washu.edu). He is advised by [Prof. Ning Zhang](https://cybersecurity.seas.wustl.edu/ning/index.html) as a member of the Computer Security & Privacy Laboratory. His research focuses on system security, cyber-physical systems, and machine learning systems.
 
 <!-- Tomson is a MS student at [Washington University in St. Louis](https://washu.edu). His previous research focused on system security, real-time systems, and Federated Learning. -->
 <!-- He is advised by [Prof. Ning Zhang](https://cybersecurity.seas.wustl.edu/ning/index.html) as a member of the [Computer Security & Privacy Laboratory](https://cybersecurity.seas.wustl.edu/).

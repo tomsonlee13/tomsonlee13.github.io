@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Zihan (Tomson) Li",
-    "label": "Ph.D Student",
+    "label": "Ph.D Candidate",
     "image": "",
     "email": "tomson.li@tomson.li",
     "phone": "",
@@ -87,6 +87,10 @@
     }
   ],
   "services": [
+    {
+      "organization": "International Conference on Computer Communications and Networks (ICCCN)",
+      "position": "Reviewer"
+    },
     {
       "organization": "ISOC Symposium on Vehicle Security and Privacy (VehicleSec '24)",
       "position": "Reviewer"
