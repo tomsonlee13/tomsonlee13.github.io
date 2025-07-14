@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Zihan (Tomson) Li",
-    "label": "Ph.D Candidate",
+    "label": "Ph.D. Candidate",
     "image": "",
     "email": "tomson.li@tomson.li",
     "phone": "",
@@ -12,7 +12,7 @@
     {
       "institution": "Washington University in St. Louis",
       "location": "St. Louis, MO, USA",
-      "studyType": "Ph.D in Computer Science",
+      "studyType": "Ph.D. in Computer Science",
       "startDate": "Aug 2023",
       "endDate": "Present"
     },
@@ -37,7 +37,7 @@
       "position": "Research Assistant",
       "startDate": "May 2022",
       "endDate": "Present",
-      "summary": "Focus: Systems Security. PI: Prof. Ning Zhang"
+      "summary": "Focus: Systems Security. <br>PI: Prof. Ning Zhang"
     },
     {
       "name": "Youme.im",

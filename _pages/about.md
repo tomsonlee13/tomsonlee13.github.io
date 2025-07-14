@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D Candidate @ <a href='https://washu.edu'>WashU</a>.
+subtitle: Ph.D. Candidate @ <a href='https://washu.edu'>WashU</a>.
 
 profile:
   align: right
