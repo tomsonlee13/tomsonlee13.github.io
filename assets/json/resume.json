@@ -88,6 +88,10 @@
   ],
   "services": [
     {
+      "organization": "ACM Conference on Computer and Communications Security (CCS)",
+      "position": "Artifact Evaluation Program Committee (AE PC) Member"
+    },
+    {
       "organization": "International Conference on Computer Communications and Networks (ICCCN)",
       "position": "Reviewer"
     },

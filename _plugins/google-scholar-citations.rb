@@ -73,7 +73,7 @@ module Jekyll
         citation_count = "N/A"
 
         if article_id == "u-x6o8ySG0sC"
-          citation_count = "37"
+          citation_count = "43"
         elsif article_id == "u5HHmVD_uO8C"
           citation_count = "3"
         elsif article_id == "qjMakFHDy7sC"
