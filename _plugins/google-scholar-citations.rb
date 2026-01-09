@@ -73,11 +73,11 @@ module Jekyll
         citation_count = "N/A"
 
         if article_id == "u-x6o8ySG0sC"
-          citation_count = "46"
+          citation_count = "59"
         elsif article_id == "u5HHmVD_uO8C"
           citation_count = "3"
         elsif article_id == "qjMakFHDy7sC"
-          citation_count = "1"
+          citation_count = "2"
         end
 
         # Print the error message including the exception class and message
