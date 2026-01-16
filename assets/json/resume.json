@@ -69,7 +69,7 @@
       "publisher": "<b><u>Zihan Li</u></b>, Han Liu, Ao Li, Ching-hsiang Chan, Yevgeniy Vorobeychik, William Yeoh, Wenjing Lou, Ning Zhang",
       "releaseDate": "2025",
       "url": "/publications",
-      "summary": "2025 62th ACM/IEEE Design Automation Conference (DAC)"
+      "summary": "2025 62nd ACM/IEEE Design Automation Conference (DAC)"
     },
     {
       "name": "Your Firmware Has Arrived: A Study of Firmware Update Vulnerabilities",
@@ -154,6 +154,14 @@
       "startDate": "Jan 2022",
       "endDate": "May 2022",
       "url": "https://bio.tomson.li/projects/RichArduino_V4/"
+    },
+    {
+      "name": "EMILY: Electro Magnetic Interference Ledger & registrY",
+      "summary": "A collaborative platform designed to record, analyze, and share radio-frequency interference (RFI) events affecting radio astronomy observations.",
+      "highlights": ["Full-stack development", "Java, Node.js, PostgreSQL, Springboot", "Data visualization"],
+      "startDate": "Nov 2025",
+      "endDate": "Jan 2026",
+      "url": "https://emily.tomson.li"
     }
   ]
 }
