@@ -57,7 +57,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-richarduino-v4",
+          section: "News",},{id: "projects-emily",
+          title: 'EMILY',
+          description: "Electro Magnetic Interference Ledger &amp; registrY (EMILY)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/EMILY/";
+            },},{id: "projects-richarduino-v4",
           title: 'RichArduino V4',
           description: "FPGA microcontroller with RISC-based architecture",
           section: "Projects",handler: () => {
