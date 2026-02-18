@@ -58,6 +58,13 @@
   ],
   "publications": [
     {
+      "name": "To Appear",
+      "publisher": "<b><u>Zihan Li</u></b> et al.",
+      "releaseDate": "2026",
+      "url": "/publications",
+      "summary": "32nd IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS)"
+    },
+    {
       "name": "A Unified Hardware Performance Profiling Infrastructure to Measure and Manage Uncertainty",
       "publisher": "Ao Li, Marion Sudvarg, <b><u>Zihan Li</u></b>, Sanjoy Baruah, Chris Gill, Ning Zhang",
       "releaseDate": "2025",
