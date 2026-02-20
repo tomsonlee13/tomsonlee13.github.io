@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Zihan (Tomson) Li</p>
-    <p><a href="mailto:tomson.li@tomson.li">tomson.li@tomson.li</a></p><br>
+    <p><a href="mailto:tomson.li@tomson.li">tomson.li-AT-tomson.li</a></p><br>
     <p>St. Louis,</p>
     <p>Missouri</p>
 
