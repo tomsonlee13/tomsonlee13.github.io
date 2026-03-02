@@ -65,6 +65,13 @@
       "summary": "32nd IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS)"
     },
     {
+      "name": "Tintin: PMU Scheduling to Minimize Uncertainty",
+      "publisher": "Marion Sudvarg, Ao Li, <b><u>Zihan Li</u></b>, Sanjoy Baruah, Chris Gill, Ning Zhang",
+      "releaseDate": "2025",
+      "url": "/publications",
+      "summary": "The 19th Annual Workshop on Operating Systems Platforms for Embedded Real-Time Applications (OSPERT 25)"
+    },
+    {
       "name": "A Unified Hardware Performance Profiling Infrastructure to Measure and Manage Uncertainty",
       "publisher": "Ao Li, Marion Sudvarg, <b><u>Zihan Li</u></b>, Sanjoy Baruah, Chris Gill, Ning Zhang",
       "releaseDate": "2025",
