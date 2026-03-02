@@ -126,6 +126,14 @@
       "position": "Reviewer"
     }
   ],
+  "teaching": [
+    {
+      "institution": "Washington University in St. Louis",
+      "position": "Assistant in Instruction",
+      "startDate": "Spring 2026",
+      "summary": "CSE 5619: Recent Advances in Computer Security and Privacy"
+    }
+  ],
   "skills": [
     {
       "name": "Languages",
