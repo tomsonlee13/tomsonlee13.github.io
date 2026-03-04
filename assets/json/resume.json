@@ -62,7 +62,7 @@
       "publisher": "<b><u>Zihan Li</u></b> et al.",
       "releaseDate": "2026",
       "url": "/publications",
-      "summary": "32nd IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS)"
+      "summary": "2026 IEEE 32nd Real-Time and Embedded Technology and Applications Symposium (RTAS)"
     },
     {
       "name": "Tintin: PMU Scheduling to Minimize Uncertainty",
@@ -102,10 +102,8 @@
   ],
   "services": [
     {
-      "organization": "CSE 5619: Recent Advances in Computer Security and Privacy @ Washington University in St. Louis",
-      "position": "Assistant in Instruction",
-      "startDate": "Spring 2026",
-      "endDate": "Spring 2026"
+      "organization": "CSE 5619 Spring 2026: Recent Advances in Computer Security and Privacy @ Washington University in St. Louis",
+      "position": "Assistant in Instruction"
     },
     {
       "organization": "ACM Conference on Computer and Communications Security (CCS)",
