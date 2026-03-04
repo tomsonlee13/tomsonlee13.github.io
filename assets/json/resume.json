@@ -102,9 +102,10 @@
   ],
   "services": [
     {
-      "organization": "Washington University in St. Louis",
-      "position": "Assistant in Instruction for CSE 5619: Recent Advances in Computer Security and Privacy",
-      "startDate": "Spring 2026"
+      "organization": "CSE 5619: Recent Advances in Computer Security and Privacy @ Washington University in St. Louis",
+      "position": "Assistant in Instruction",
+      "startDate": "Spring 2026",
+      "endDate": "Spring 2026"
     },
     {
       "organization": "ACM Conference on Computer and Communications Security (CCS)",
