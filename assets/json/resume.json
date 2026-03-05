@@ -102,10 +102,6 @@
   ],
   "services": [
     {
-      "organization": "CSE 5619 Spring 2026: Recent Advances in Computer Security and Privacy @ Washington University in St. Louis",
-      "position": "Assistant in Instruction"
-    },
-    {
       "organization": "ACM Conference on Computer and Communications Security (CCS)",
       "position": "Artifact Evaluation Program Committee (AE PC) Member"
     },
@@ -128,6 +124,10 @@
     {
       "organization": "IEEE Transactions on Information Forensics and Security",
       "position": "Reviewer"
+    },
+    {
+      "organization": "CSE 5619 Spring 2026: Recent Advances in Computer Security and Privacy @ Washington University in St. Louis",
+      "position": "Assistant in Instruction"
     }
   ],
   "skills": [
@@ -179,7 +179,7 @@
       "highlights": ["Full-stack development", "Java, Node.js, PostgreSQL, Springboot", "Data visualization"],
       "startDate": "Nov 2025",
       "endDate": "Jan 2026",
-      "url": "https://emily.tomson.li"
+      "url": "https://bio.tomson.li/projects/EMILY/"
     }
   ]
 }

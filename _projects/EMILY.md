@@ -25,4 +25,4 @@ Implement backend for high performance and secure access to the database based o
 
 Design and implement a user-friendly front-end for astronomers to use the system with ease.
 
-Real-world impact and public available at <a href="https://emily.tomson.li">emily.tomson.li</a>
+Real-world impact and public available at <a href="https://emilyknows.info">emilyknows.info</a>
