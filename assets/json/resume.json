@@ -58,18 +58,18 @@
   ],
   "publications": [
     {
-      "name": "To Appear",
-      "publisher": "<b><u>Zihan Li</u></b> et al.",
-      "releaseDate": "2026",
-      "url": "/publications",
-      "summary": "2026 IEEE 32nd Real-Time and Embedded Technology and Applications Symposium (RTAS)"
-    },
-    {
       "name": "Sensing and Stopping Interfering Secondary Users: Validation of an Efficient Spectrum Sharing System",
       "publisher": "Meles G Weldegebriel, <b><u>Zihan Li</u></b>, Dustin Maas, Gregory Hellbourg, Ning Zhang, Neal Patwari",
       "releaseDate": "2026",
       "url": "/publications",
       "summary": "To Appear in 2026 IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN)"
+    },
+    {
+      "name": "Balancing Security and Schedulability: WCET Evaluation and Security Optimization in CPS",
+      "publisher": "<b><u>Zihan Li</u></b>, Marion Sudvarg, Ching-Hsiang Chan, Ryan Burrow, Nathan Burow, Cailani Lemieux-Mack, Sanjoy Baruah, Ning Zhang, Bryan Ward",
+      "releaseDate": "2026",
+      "url": "/publications",
+      "summary": "To Appear in 2026 IEEE 32nd Real-Time and Embedded Technology and Applications Symposium (RTAS)"
     },
     {
       "name": "Tintin: PMU Scheduling to Minimize Uncertainty",
@@ -134,7 +134,8 @@
     },
     {
       "organization": "CSE 5619 Spring 2026: Recent Advances in Computer Security and Privacy @ Washington University in St. Louis",
-      "position": "Assistant in Instruction"
+      "position": "Assistant in Instruction",
+      "url": "https://cybersecurity.seas.wustl.edu/ning/teaching/S26cse5619/index.html"
     }
   ],
   "skills": [
