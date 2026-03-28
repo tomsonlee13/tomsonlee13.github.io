@@ -6,7 +6,7 @@
     "email": "tomson.li@tomson.li",
     "phone": "",
     "url": "https://bio.tomson.li",
-    "summary": "Research focus on system security, real-time systems, CPS testing."
+    "summary": "Research focus on real-time system security, cyber-physical systems, CPS testing."
   },
   "education": [
     {
@@ -37,7 +37,7 @@
       "position": "Research Assistant",
       "startDate": "May 2022",
       "endDate": "Present",
-      "summary": "Focus: Systems Security. <br>PI: Prof. Ning Zhang"
+      "summary": "Focus: Real-Time Systems Security. <br>PI: Prof. Ning Zhang"
     },
     {
       "name": "Youme.im",
