@@ -15,11 +15,11 @@ nav_order: 1
 
 <div class="publications">
 
-## Conference Papers
+<h2>Conference Papers</h2>
 
 {% bibliography -q @*[paper_type=full] %}
 
-## Short Conference / Workshop Papers
+<h2>Short Conference / Workshop Papers</h2>
 
 {% bibliography -q @*[paper_type=short] %}
 
