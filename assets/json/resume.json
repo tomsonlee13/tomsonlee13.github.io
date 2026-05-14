@@ -58,6 +58,13 @@
   ],
   "publications": [
     {
+      "name": "Spectrogram-Based Interference Source Attribution at OVRO: An Over-the-Air Validation Using Pseudonymetry",
+      "publisher": "Meles G. Weldegebriel, <b><u>Zihan Li</u></b>, Gregory Hellbourg, Ning Zhang, Neal Patwari",
+      "releaseDate": "2026",
+      "url": "/publications",
+      "summary": "To Appear in 2026 IEEE RFID NRDZ Workshop"
+    },
+    {
       "name": "Sensing and Stopping Interfering Secondary Users: Validation of an Efficient Spectrum Sharing System",
       "publisher": "Meles G. Weldegebriel, <b><u>Zihan Li</u></b>, Dustin Maas, Gregory Hellbourg, Ning Zhang, Neal Patwari",
       "releaseDate": "2026",
