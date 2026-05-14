@@ -19,7 +19,7 @@ nav_order: 1
 
 {% bibliography -q @*[paper_type=full] %}
 
-<h2>Short Conference / Workshop Papers</h2>
+<h2>Conference / Workshop Short Papers</h2>
 
 {% bibliography -q @*[paper_type=short] %}
 
