@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: https://tomsonlee.com
+permalink: https://tomsonlee.com/?lang=en
 title: signal
 nav: true
 nav_external: true
