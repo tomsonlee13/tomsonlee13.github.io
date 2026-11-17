@@ -107,8 +107,20 @@
                   {%- else -%}
                     {%- assign url = p.url -%}
                   {%- endif %}
-                  <a class="nav-link" href="{{ url | relative_url }}">
+                  <a
+                    class="nav-link"
+                    href="{{ url | relative_url }}"
+                    {% if p.nav_external %}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      title="Opens in a new tab"
+                    {% endif %}
+                  >
                     {{- p.title }}
+                    {% if p.nav_external %}
+                      <i class="ti ti-external-link small ml-1" aria-hidden="true"></i>
+                      <span class="sr-only">(external website, opens in a new tab)</span>
+                    {% endif %}
                     {% if page.url contains p.url %}
                       <span class="sr-only">(current)</span>
                     {% endif %}
