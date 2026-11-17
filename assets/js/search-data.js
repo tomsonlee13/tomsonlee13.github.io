@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-signal",
+          title: "signal",
+          description: "AI-generated blog.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/https:/tomsonlee.com";
+          },
         },{id: "post-a-post-with-redirect",
         
           title: "a post with redirect",
