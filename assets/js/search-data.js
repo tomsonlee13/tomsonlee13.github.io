@@ -35,7 +35,7 @@ ninja.data = [{
           description: "AI-generated blog.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/https:/tomsonlee.com";
+            window.location.href = "/https:/tomsonlee.com/?lang=en";
           },
         },{id: "post-a-post-with-redirect",
         
