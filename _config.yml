@@ -7,7 +7,7 @@ first_name: Zihan (Tomson)
 middle_name:
 last_name: Li
 contact_note: >
-  Beta Development. Checkout my AI-powered <a href="https://tomsonlee.com/?lang=en">[Blog]</a> on Systems and AI.
+  Beta Development. Checkout my AI-powered blog <a href="https://tomsonlee.com/?lang=en">[Signal]</a> on Systems, CPS and AI.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
